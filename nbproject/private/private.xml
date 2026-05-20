@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/Account.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/AccountDAO.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/LoginForm.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/PasswordRecoveryForm.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/AccountFormDialog.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/UserManagementPanel.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/MainDashboard.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/BorrowTransactionForm.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/BorrowTransactionDAO.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/ReturnTransactionForm.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/ReturnTransactionDAO.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/FinePaymentForm.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/FinePaymentDAO.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/ReportPanel.java</file>
+            <file>file:/C:/Users/Lethay/OneDrive/LibrarySystem/src/library/ExcelExporter.java</file>
+        </group>
+    </open-files>
+</project-private>
